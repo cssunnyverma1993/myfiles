@@ -1,0 +1,78 @@
+details:-
+The dev site is http://two.serviceswithsoul.com/wp-admin/
+
+Username: developer
+Password: ce83n5$Vv5N$aNkcjD
+The site you are copying is SharriHarmel.com/admin :: sharriharmel@gmail.com :: Martha1975!
+Username: sharriharmel@gmail.com
+Password: Martha1975!
+
+
+signout amrik upwork 
+working on Eve tasks 
+Username: a8513882772065
+Hostname: p3nlpaas001.shr.prod.phx3.secureserver.net
+Password: fr3tj{JOzB4vk
+
+http://a85.1b2.mwp.accessdomain.com/wp-admin/
+Username: wpadmin
+PW: FZT$Hd7l6tMskeON
+username:developer
+pw:developer@2018!@8
+
+
+
+http://a85.1b2.mwp.accessdomain.com/blog/
+http://a85.1b2.mwp.accessdomain.com/careers/
+http://a85.1b2.mwp.accessdomain.com/marketing-automation-execution-services/
+a85.1b2.mwp.accessdomain.com/testimonials/
+a85.1b2.mwp.accessdomain.com/buyers-journey-mapping-and-content-alignment/
+a85.1b2.mwp.accessdomain.com/contact/
+
+
+without js
+a85.1b2.mwp.accessdomain.com/blog/ ---> working fine
+a85.1b2.mwp.accessdomain.com/buyers-journey-mapping-and-content-alignment/ ---> working fine
+a85.1b2.mwp.accessdomain.com/contact/---> working fine
+a85.1b2.mwp.accessdomain.com/careers/ ---> working fine
+a85.1b2.mwp.accessdomain.com/marketing-automation-execution-services/ ---> working fine
+a85.1b2.mwp.accessdomain.com/testimonials/ ---> working fine
+
+
+with js
+http://a85.1b2.mwp.accessdomain.com/marketing-automation-system-mas-insurance/ ---> working fine
+
+
+
+<?php 
+if(!empty($row['room_image0']))
+{
+?>
+<img src="seller_dashboard/images/rooms/<?php echo $row['room_image0'];?>" height="126px" width="200px" />
+<?php } else {
+	?>
+	<img src="seller_dashboard/images/not-available.jpg" height="126px" width="200px" />
+<?php
+}
+?>
+
+
+
+
+devbyus.info/cpanel
+username: vlct9dq3a8n4
+pass: :rBD(0u(WL
+
+
+
+
+.main-navigation ul ul.sub-menu {
+	background: #fff;
+	max-width: 770px;
+	left: 90px;
+	right: 0;
+	margin: auto;
+	display:none;
+	border: 1px solid #d1d1d1;
+	z-index:999999;
+}
