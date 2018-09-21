@@ -1,4 +1,6 @@
 <?php
+
+echo "123";
 include_once'database.php';
 if(isset($_POST['save'])) {
 mysqli_query($conn,"UPDATE userdata SET firstname = '".$_POST['firstname']."',
